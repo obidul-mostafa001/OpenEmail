@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
         mVB = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(mVB.getRoot());
 
+        //hi
+
 
 
 
